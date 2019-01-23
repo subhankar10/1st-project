@@ -1,0 +1,43 @@
+body {
+	border: 20px solid #bdc3c7;
+	padding: 60px;
+	width: 800px;
+	margin: 20px auto;
+}
+h1 {
+	color: red;
+}
+h3 {
+	color: white;
+}
+h1 {
+	background: black;
+}
+h3 {
+	background: black;
+}
+p {
+	font-family: georgia;
+}
+img {
+	width: 100px;
+	float: right;
+}
+td {
+	width: 100px;
+	height: 100px;
+}
+h2 {
+	float: right;
+}
+.hmm {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.x {
+	border-right: 1px solid black;
+}
+.y {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
